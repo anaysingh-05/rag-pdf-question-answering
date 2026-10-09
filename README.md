@@ -1,4 +1,4 @@
-## 🚀 Live Demo
+##  Live Demo
 
 [Click here to open the RAG App](https://rag-pdf-question-answering-bejnrbkqzemu6nsaxl5rwe.streamlit.app/)
 
